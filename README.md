@@ -1,2 +1,4 @@
 # hello-world
-This is my first go at github for cogs 108.
+
+Hello bubble guppies!
+I love whales and I wish I was a whale. A humpback whale, specifically. 
